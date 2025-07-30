@@ -1,1 +1,2 @@
 First line - Commit 1
+Second line - Commit 2
