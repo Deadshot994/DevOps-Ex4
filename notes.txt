@@ -1,3 +1,2 @@
 First line - Commit 1
-Second line - Commit 2
 Third line - Commit 3
